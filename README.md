@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hardik0110
 - 👀 I’m interested in AIML Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python , Javascript and Machine Learning
 - 💞️ I’m looking to collaborate on new ideas of projects
 - 📫 How to reach me my email @hkubavat21@gmail.com
 
