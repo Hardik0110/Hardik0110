@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on new ideas of projects
 - 📫 How to reach me my email @hardikkubavat0110@gmail.com
 
-<!---
-Hardik0110/Hardik0110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Hardik0110's Stats](https://github-readme-stats.vercel.app/api?username=Hardik0110&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
