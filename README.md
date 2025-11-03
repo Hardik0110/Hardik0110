@@ -119,14 +119,6 @@ console.log("🎲 Today's energy: " + hardikFacts.productivity());
 
 ---
 
-### 📈 Contribution Graph (Proof I Actually Code)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik0110&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ### 💬 Random Dev Quote to Inspire You (or me)
 
 <p align="center">
